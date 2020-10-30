@@ -1,5 +1,3 @@
-package clases_objetos_2;
-
 public class Alumno extends Persona {
 	
 	// atributos de la clase Alumno
