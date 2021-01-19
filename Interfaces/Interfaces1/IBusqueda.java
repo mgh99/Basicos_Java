@@ -1,6 +1,6 @@
 package interfaces1;
 
-public class IBusqueda {
+public interface IBusqueda {
 	
 	Object existe(String nombre);
 
